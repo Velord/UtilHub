@@ -1,8 +1,9 @@
-package com.velord.utilshubdemo
+package com.velord.utilshubdemo.ui.activity
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
-import com.velord.utilshubdemo.ui.main.MainFragment
+import com.velord.utilshubdemo.R
+import com.velord.utilshubdemo.ui.fragment.main.MainFragment
 
 class MainActivity : AppCompatActivity() {
     
